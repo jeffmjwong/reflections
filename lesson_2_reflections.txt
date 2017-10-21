@@ -5,3 +5,7 @@ How is the staging area different from the working directory and the repository?
 - Staging area is the intermediate area between the working directory and the repository, where user adds files or changes to
   it before commiting them into the repository. The staging area is useful because you can check, add or remove items before
   you decide to commit it.
+
+How can you use the staging area to make sure you have one commit per logical change?
+- I can do this by using git diff or git diff --staged to compare the changes between working directory, staging area and
+  repository.
