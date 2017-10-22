@@ -9,3 +9,7 @@ How is the staging area different from the working directory and the repository?
 How can you use the staging area to make sure you have one commit per logical change?
 - I can do this by using git diff or git diff --staged to compare the changes between working directory, staging area and
   repository.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+- Branches would be helpful in situation when you want to introduce a new feature/change but doesn't want to completely
+  abandon the old features yet. Branches would help to keep the 2 versions organized and neat.
