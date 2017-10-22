@@ -16,3 +16,6 @@ What are some situations when branches would be helpful in keeping your history 
 
 How do the diagrams help you visualize the branch structure?
 - Drawing diagrams will give a clear picture of the branch structure, making it less confusing.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+- Mergin two branches will create a new commit with features from the two branches. The diagram is to let us visualize it.
