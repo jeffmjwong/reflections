@@ -1,1 +1,2 @@
 When would you want to create a remote repository rather than keeping all your work local?
+- A remote repository is needed if you want to upload your repository to a public open source website such as github.
